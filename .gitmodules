@@ -1,0 +1,9 @@
+[submodule "Telecom-Churn-using-Logistic-Regression"]
+	path = Telecom-Churn-using-Logistic-Regression
+	url = https://github.com/jothsnapraveena/Telecom-Churn-using-Logistic-Regression.git
+[submodule "House-Price-Linear-Regression"]
+	path = House-Price-Linear-Regression
+	url = https://github.com/jothsnapraveena/House-Price-Linear-Regression.git
+[submodule "Churn-Modeling-using-RandomForest"]
+	path = Churn-Modeling-using-RandomForest
+	url = https://github.com/jothsnapraveena/Churn-Modeling-using-RandomForest.git
